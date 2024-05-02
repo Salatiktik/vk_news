@@ -9,12 +9,17 @@ app link: https://vk.com/app51916002
 git clone https://github.com/Salatiktik/vk_news.git
 ```
 
-2. Установите все зависимости
+2. Перейдите в каталог
+```sh
+cd vk_news
+```
+
+3. Установите все зависимости
 ```sh
 yarn
 ```
 
-3. Запустите приложение
+4. Запустите приложение
 ```sh
  yarn start
 ```
