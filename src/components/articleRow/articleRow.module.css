@@ -1,0 +1,14 @@
+.score { 
+    top: 0%;
+    right: 0%;
+    margin: 12px 20px;
+    position: absolute;
+    width: fit-content;
+    display: flex;
+    flex-direction: row;
+}
+
+.card{
+    margin: 2vh;
+}
+
